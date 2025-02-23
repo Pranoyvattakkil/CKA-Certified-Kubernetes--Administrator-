@@ -1,2 +1,2 @@
-# CKA-Certified-Kubernetes--Administrator-
-certification journey for CKA exam
+# CKA-Certified-Kubernetes-Administrator-
+Certification journey for CKA exam
